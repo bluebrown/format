@@ -15,7 +15,7 @@ func main() {
 }
 ```
 
-If you want to change the `or` term, set the global varibale `OrTerm`.
+If you want to change the `or` term, set the global variable `OrTerm`.
 
 ```go
 func init() {
