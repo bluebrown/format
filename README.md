@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
- fmt.Println(format.ListOr("apply", "orange", "kiwi"))
+ fmt.Println(format.ListOr("apple", "orange", "kiwi"))
  // apple, orange or kiwi
 }
 ```
