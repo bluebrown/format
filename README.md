@@ -14,3 +14,11 @@ func main() {
  // apple, orange or kiwi
 }
 ```
+
+If you want to change the `or` term, set the global varibale `OrTerm`.
+
+```go
+func init() {
+ format.OrTerm = "oder"
+}
+```
